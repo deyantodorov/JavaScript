@@ -1,2 +1,1 @@
 # JavaScript
-Play with JavaScript
