@@ -1,5 +1,5 @@
-const str = 'Deyan'
+const str = 'Deyan';
 
 const sym = Symbol();
 
-console.log(typeof sym)
+console.log(typeof sym);
